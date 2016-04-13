@@ -1,6 +1,7 @@
 Project link : http://omarelebiary.github.io/frontend-nanodegree-feedreader/
 
 To run the project locally:
+
 	-git clone https://github.com/OmarElebiary/frontend-nanodegree-feedreader.git
 
 	-Open index.html
